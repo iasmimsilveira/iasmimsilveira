@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iasmimsilveira" alt="iasmimsilveira" /></a> </p>
 
-- 🔭 I’m currently studying at **Instituto INFNET**
+- 🔭  I’m currently studying at **Instituto INFNET**
 
-- 🌱 I’m currently learning **Python and React-Native**
+- 🌱  I’m currently learning **Python and React-Native**
 
-- 📫 How to reach me **iasmimdjs@gmail.com**
+- 📫  How to reach me **iasmimdjs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
