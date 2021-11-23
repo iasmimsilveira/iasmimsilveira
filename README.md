@@ -9,7 +9,7 @@
 
 - 🔭  I’m currently studying at **Instituto INFNET**
 
-- 🌱  I’m currently learning **Java and Rust**
+- 🌱  I’m currently learning **C# and Rust**
 
 - 📫  How to reach me **iasmimdjs@gmail.com**
 
