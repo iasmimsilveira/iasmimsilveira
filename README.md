@@ -5,7 +5,7 @@
   <li>🔭Currently studying at Instituto INFNET in Rio de Janeiro, Brazil.</li>
   <li>🌱Always striving to improve my skills.</li>
   <li>📫You can reach me at <a href="mailto:iasmimdjs@gmail.com">iasmimdjs@gmail.com</a>.</li>
-  <li>🔗Connect with me: <a href="https://www.linkedin.com/in/iasmim-silveira-940aab177/">LinkedIn</a> <a href="https://github.com/iasmimsilveira">GitHub</a></li>
+  <li>🔗Connect with me: <a href="https://www.linkedin.com/in/iasmim-de-jesus-silveira-303924130/">LinkedIn</a> <a href="https://github.com/iasmimsilveira">GitHub</a></li>
 </ul>
 
 <p>💻Languages and Tools: I enjoy working with a variety of technologies, including:</p>
