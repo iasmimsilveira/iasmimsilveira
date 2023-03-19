@@ -8,23 +8,19 @@
   <li>🔗Connect with me: <a href="https://www.linkedin.com/in/iasmim-de-jesus-silveira-303924130/">LinkedIn</a> <a href="https://github.com/iasmimsilveira">GitHub</a></li>
 </ul>
 
-<p>💻Languages and Tools: I enjoy working with a variety of technologies, including:</p>
-
-<ul>
-  <li>Android: development for mobile devices</li>
-  <li>Bootstrap: building responsive web interfaces</li>
-  <li>Django: high-level Python web framework</li>
-  <li>Firebase: backend development and hosting</li>
-  <li>HTML/CSS: building web pages and styling them</li>
-  <li>JavaScript: scripting language for front-end development</li>
-  <li>Kotlin: development for Android and backend</li>
-  <li>Node.js: backend JavaScript runtime</li>
-  <li>PostgreSQL: powerful open-source database</li>
-  <li>Python: high-level programming language</li>
-  <li>React: building user interfaces</li>
-  <li>React Native: developing cross-platform mobile apps</li>
-  <li>Vue.js: progressive JavaScript framework</li>
-</ul>
+<p>💻 Languages:</p>
+<div>
+  <img src="https://img.icons8.com/color/48/000000/assembly.png"/>Assembly
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>C
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>C#
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>Java
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>JS
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>Kotlin
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>Python
+  <img src="https://img.icons8.com/color/48/000000/rust.png"/>Rust
+  <img src="https://img.icons8.com/color/48/000000/ethereum.png"/>Solidity
+</div>
+</br>
 
 <p>📈 My GitHub Stats:</p>
 <p align="center">
